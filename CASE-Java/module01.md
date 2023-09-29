@@ -12,7 +12,7 @@
       - *The Open Web Application Security Project (**OWASP**) & The Web Application Security Consortium (**WASC**)*
       - *SAMM & BSIMM (Important in point of exam)*
 
-[click here]() to learn about ***module02***
+[click here](https://github.com/IHackPy/EC-Council-CASE-Java-Net/blob/main/CASE-Java/module02.md) to learn about ***module02***
 
 
 
