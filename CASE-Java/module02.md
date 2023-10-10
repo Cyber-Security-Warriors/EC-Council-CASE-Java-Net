@@ -49,3 +49,9 @@ Typical SRE approaches are broadly classified into:
 ## Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE)Synchronization
 * OCTAVE is an information risk evaluation method that enables organizations to determine the risk factors affecting the confidentiality, integrity, and availability of assets.
 * Structured approach for identifying, prioritizing, and managing the security risks in an organization
+* It is **difficult to understand and implement** the concepts of OCTAVE approach (Disadvantage)
+* The approach does not provide a detailed explanation of the **quantitative analysis** of the security risks in the organization(Disadvantage)
+
+
+
+[click here](https://github.com/IHackPy/EC-Council-CASE-Java-Net/blob/main/CASE-Java/module03.md) to learn about ***module03***
