@@ -13,3 +13,9 @@
 * **Threat Identification :** Each entry points are then reviewed against potential threats 
 * **Impact Analysis :** Impact of potential threats is calculated in terms of risk 
 * **Control Recommendations :** Security controls are recommended to meet security objectives
+
+## Perform Application Modeling using Data Flow Diagrams (DFDs)
+
+The collected information such as external entities, entry points, assets and trust level will help in accurately modeling the application by using Data Flow Diagrams (DFDs).
+
+![DFD Components](https://github.com/IHackPy/EC-Council-CASE-Java-Net/blob/main/CASE-Java/DFD_Component.png)
