@@ -19,3 +19,22 @@
 The collected information such as external entities, entry points, assets and trust level will help in accurately modeling the application by using Data Flow Diagrams (DFDs).
 
 ![DFD Components](https://github.com/IHackPy/EC-Council-CASE-Java-Net/blob/main/CASE-Java/DFD_Component.png)
+
+## Rating the Threats 
+
+
+The formula for calculating risk is: ***RISK = PROBABILITY * DAMAGE POTENTIAL***
+
+### DREAD Model :
+* DREAD model is used to rate the various security threats on the application by **calculating risks of each threats**
+
+
+
+
+## Secure Application Architecture
+
+* Security at one tier is not enough as attacker can breach the security of another tier to compromise the application
+* Design web application architecture with defense-in-depth principle i.e. providing security at each tier of the web application
+
+
+[click here](https://github.com/IHackPy/EC-Council-CASE-Java-Net/blob/main/CASE-Java/module04.md) to learn about ***module04***
